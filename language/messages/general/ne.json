@@ -2,14 +2,15 @@
 	"@metadata": {
 		"authors": [
 			"Krish Dulal",
-			"सरोज कुमार ढकाल"
+			"सरोज कुमार ढकाल",
+			"पर्वत सुबेदी"
 		]
 	},
 	"hello": "हेलो",
 	"welcome": "स्वागतम्",
 	"toolversion": "संस्करण $1",
 	"etc": "इत्यादि .",
-	"namespace": "नेमस्पेस",
+	"namespace": "नामपद",
 	"form-submit": "जाने",
 	"form-reset": "रिसेट गर्नुहोस्",
 	"years": "{{PLURAL: $1|वर्ष|वर्षहरू}}",

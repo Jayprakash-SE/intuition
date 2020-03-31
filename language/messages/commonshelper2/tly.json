@@ -1,13 +1,14 @@
 {
 	"@metadata": {
 		"authors": [
-			"Гусейн"
+			"Гусейн",
+			"Patriot Kur"
 		]
 	},
 	"attention": "Дығғәт",
-	"language": "Зывон",
-	"project": "Нәхшә",
-	"categories": "Категоријон",
+	"language": "Zıvon",
+	"project": "Layihə",
+	"categories": "Kateqoriyon",
 	"remove_cats": "Ијр быә категоријон рәдд кардеј",
 	"tusc_user": "TUSC иштирокәкә ном",
 	"tusc_pass": "Парол TUSC",

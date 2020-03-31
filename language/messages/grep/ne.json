@@ -1,7 +1,8 @@
 {
 	"@metadata": {
 		"authors": [
-			"सरोज कुमार ढकाल"
+			"सरोज कुमार ढकाल",
+			"पर्वत सुबेदी"
 		]
 	},
 	"explanation": "वर्णन",
@@ -9,7 +10,7 @@
 	"enter-details": "जानकारीहरू प्रविष्ट गर्नुहोस्",
 	"results": "नतिजाहरू",
 	"language-label": "भाषा",
-	"namespace-label": "नेमस्पेस",
+	"namespace-label": "नामपद",
 	"project-label": "परियोजना",
 	"pattern-label": "बान्की"
 }
